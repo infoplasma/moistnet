@@ -1,4 +1,4 @@
 # Collector configuration file
-WIFI_NAME = "NETGEAR82"
-WIFI_PWD  = "melodiczoo089"
+WIFI_NAME = "BEDROCK"
+WIFI_PWD  = "L@PIPA.Bedrock2020"
 
